@@ -1,5 +1,5 @@
 --- proptest-0.10.1/Cargo.toml	2020-08-15T16:23:17+00:00
-+++ proptest-0.10.1/Cargo.toml	2021-05-21T13:44:40.971116+00:00
++++ proptest-0.10.1/Cargo.toml	2023-05-22T11:21:49.184936+00:00
 @@ -15,7 +15,7 @@
  name = "proptest"
  version = "0.10.1"
